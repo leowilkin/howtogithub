@@ -1,8 +1,4 @@
 # How to use GitHub
-Step by step instructions explaining how to use GitHub [_by LKW_](https://github.com/leowikin).
+Step by step instructions explaining how to use GitHub [by LKW](https://github.com/leowikin).
 
-## How to commit
-[Link](https://github.com/leowilkin/howtogithub/tree/main/issues)
-## How to make issues
-[Link](https://github.com/leowilkin/howtogithub/blob/main/issues/howtocreateissues.md)
-
+# [Go to the Wiki](https://github.com/leowilkin/howtogithub/wiki)
